@@ -4,5 +4,6 @@
 * lists
 * list
   * more indentent lists
+  * more stuff added
+  * image removed
  
-<img src="https://raw.githubusercontent.com/SlicerMorph/Images/main/husky_small.png">
